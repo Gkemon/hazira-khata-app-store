@@ -1,2 +1,2 @@
-# hazira-khata-app-store
-For some Google Playstore Policy and Restrictions , It is not possible to upload new app version in Google playstore as the new version in containing SMS sending feature which is restricted via Google hardly. So I decided to 
+# হাজিরা খাতা এপ স্টোর । 
+হাজিরা খাতার নতুন ভার্সনটিতে এস এম এস পাঠানোর ফিচার রাখা হয়েছে । তাই গুগল প্লে স্টোর এপটিকে এপ্রুভাল দিচ্ছে না কারণ যেসব এপ থেকে সরাসরি এস এম এস পাঠানো যায় তাদের গুগোল এপ্রুভাল দেয় না সহজে । তাই আমরা যাচ্ছি এখন আপাতত নতুন ভার্শনগলোর এপিকে এখানে আপলোড করবো। এরপর তাদের পলিসি মেনে চলে কিভাবে এপটিকে এপ্রুভ করানো যায় সেদিকে মনোনিবেশ করে এবং সেই অনুযায়ী কাজ করে এপটিকে আবার প্লে স্টোরে আপলোড দেয়া। সেই পর্যন্ত আপনারা আপাতত এখান থেকে এপটি ডাউনলোড করতে পারেন । 
